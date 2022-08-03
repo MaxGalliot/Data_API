@@ -1,0 +1,57 @@
+{
+	
+	"user": [
+		{
+			"id": 1, 
+			"first_name": "John", 
+			"last_name": "Doe",
+			"email": "johndoe@abc.com",  
+			"gender": "Male",
+			"postId": 1,
+			"title": "Backend Developer"
+		},
+		{
+			"id": 2, 
+			"first_name": "Maxime", 
+			"last_name": "Galliot", 
+			"email": "maximegalliot@abc.com",
+			"gender": "Male",
+			"postId": 2,
+			"title": "Frontend Developer"
+		},
+		{
+			"id": 3, 
+			"first_name": "Tom", 
+			"last_name": "Hanks", 
+			"email": "tomhanks@abc.com",
+			"gender": "Male",
+			"postId": 2,
+			"title": "Frontend Developer"
+		},
+		{
+			"id": 4, 
+			"first_name": "Jenny", 
+			"last_name": "Rick",
+			"email": "jennyrick@abc.com",
+			"gender": "Female", 
+			"postId": 1,
+			"title": "Backend Developer"
+		}
+		
+	],
+		
+	"posts": [
+	
+		{
+			"id": 1, 
+			"title": "Backend Developer"
+		},
+		{
+			"id": 2, 
+			"title": "Frontend Developer"
+		}
+		
+	]
+ 
+
+}
